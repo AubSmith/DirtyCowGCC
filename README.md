@@ -8,8 +8,8 @@ Compile -o = Output
 Run
 * $ ./cowroot
 * $ echo 0 > /proc/sys/vm/dirty_writeback_centisecs
-* # id
-* # passwd
+* id
+* passwd
 
 # Usage Example For 64 Bit
 
